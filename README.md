@@ -7,7 +7,7 @@
 </p>
 
 - Puedes ver mi portfolio: [https://giuliano-cappa.vercel.app](https://giuliano-cappa.vercel.app)
-- Cómo contactarme: **cappa.giuliano@gmail.com** o por [LinkedIn](https://www.linkedin.com/in/giuliano-cappa/)
+- Contactarme: por email **cappa.giuliano@gmail.com** o por [LinkedIn](https://www.linkedin.com/in/giuliano-cappa/)
 
 ### Lenguajes y Herramientas
 
