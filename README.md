@@ -3,7 +3,7 @@
 <h2 align="center">Desarrollador Fullstack</h2>
 
 <p align="center">
-<img src="https://drive.google.com/file/d/1dxPxX5pZqxoapjQw9QyOqtxmzq9t8drA/view?usp=sharing" alt="Giuliano Cappa" />
+<img src="/photo.webp" alt="Giuliano Cappa" />
 </p>
 
 - Puedes ver mi portfolio: [https://giuliano-cappa.vercel.app](https://giuliano-cappa.vercel.app)
