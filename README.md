@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, soy Giuliano Cappa</h1>
 
-<h2 align="center">Desarrollador Frontend</h2>
+<h2 align="center">Desarrollador Fullstack</h2>
 
 <p align="center">
-<img src="https://giuliano-cappa.vercel.app/_astro/photo.d77f7b16.jpg" alt="Giuliano Cappa" />
+<img src="https://media.licdn.com/dms/image/v2/D4D35AQGfc8NCp_J4xQ/profile-framedphoto-shrink_100_100/B4DZay2bMbG0Ao-/0/1746757334051?e=1772830800&v=beta&t=l8zkCwoYlWRrUIqXi5-BDwgUkMxH2dbb4JyODt3975c" alt="Giuliano Cappa" />
 </p>
 
 - Puedes ver mi portfolio: [https://giuliano-cappa.vercel.app](https://giuliano-cappa.vercel.app)
@@ -24,10 +24,10 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-<a href="https://postcss.org" target="_blank" rel="noreferrer"> <img src="https://postcss.org/assets/postcss-83d93145.svg" alt="postcss" width="40" height="40"/> </a>
+<a href="https://postcss.org" target="_blank" rel="noreferrer"> <img src="simpleicons.org/icons/postcss.svg" alt="postcss" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="simpleicons.org/icons/nextdotjs.svg" alt="nextjs" width="40" height="40"/> </a>
 </p>
 
 #### Backend Development
@@ -53,6 +53,6 @@
 
 ### Hobbies
 
-- Me gustan los videojuegos RTS, de gestión y World of Warcraft.
-- La literatura de terror 👾 y de suspenso.
-- Caminar.
+- Me gustan los videojuegos RTS, de gestión y World of Warcraft
+- La literatura de terror 👾 y de suspenso
+- Caminar
